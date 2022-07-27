@@ -1,0 +1,114 @@
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.AssemblyInfoInputs.cache
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.AssemblyInfo.cs
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.csproj.CoreCompileInputs.cache
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.csproj.AssemblyReference.cache
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\appsettings.json
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.exe
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.deps.json
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.runtimeconfig.json
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.runtimeconfig.dev.json
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\ref\RestWithASP-NET5.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.pdb
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Evolve.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\MySqlConnector.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\staticwebassets\RestWithASP-NET5.StaticWebAssets.Manifest.cache
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\staticwebassets\RestWithASP-NET5.StaticWebAssets.xml
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\scopedcss\bundle\RestWithASP-NET5.styles.css
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.RazorTargetAssemblyInfo.cache
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\ref\RestWithASP-NET5.dll
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.pdb
+C:\Projetos\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.genruntimeconfig.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\appsettings.json
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.exe
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.deps.json
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.runtimeconfig.json
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.runtimeconfig.dev.json
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\ref\RestWithASP-NET5.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\RestWithASP-NET5.pdb
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Evolve.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\MySqlConnector.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.csproj.AssemblyReference.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.AssemblyInfoInputs.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.AssemblyInfo.cs
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\staticwebassets\RestWithASP-NET5.StaticWebAssets.Manifest.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\staticwebassets\RestWithASP-NET5.StaticWebAssets.xml
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\scopedcss\bundle\RestWithASP-NET5.styles.css
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.RazorTargetAssemblyInfo.cache
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\ref\RestWithASP-NET5.dll
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.pdb
+C:\Projetos\Nova pasta\RestWithASP-NET5\RestWithASP-NET5\obj\Debug\net5.0\RestWithASP-NET5.genruntimeconfig.cache
