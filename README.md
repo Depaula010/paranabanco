@@ -10,9 +10,8 @@ seguintes funções:
 4. Atualização de nome e e-mail (você deve fazer um método que atualize o nome
 e e-mail de um cliente registrado).
 5. Exclusão de um cliente através do e-mail.
-Extra
-6.Autenticação REST com JWT
-7.Refresh
-8.Revoke
+6.Autenticação REST com JWT.
+7.Refresh.
+8.Revoke.
 
 
